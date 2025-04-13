@@ -1,0 +1,2 @@
+C:\Users\Orange\Desktop\CoreApiTask\coreapitask.client\obj\Debug\coreapitask.client.esproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\CoreApiTasksFinalRepo\CoreApiTask\coreapitask.client\obj\Debug\coreapitask.client.esproj.CoreCompileInputs.cache
